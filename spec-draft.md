@@ -108,8 +108,6 @@
 2. Bộ phân loại (Router LLM) kiểm tra: Nếu là lỗi an toàn -> Chuyển người thật.
 3. Nếu là câu hỏi thường -> Sinh Embedding -> Quét qua Vector DB chứa cẩm nang VinFast.
 4. LLM tổng hợp Context và trả lời user.
-
-### Phân công thực hiện Hackathon (Đội hình 5 thành viên)
 ### Phân công thực hiện Hackathon (Đội hình 5 thành viên)
 - **Ngô Quang Tăng:** Phụ trách AI Canvas & Thiết kế luồng UX (User Stories - 4 Paths), thiết kế luồng tương tác (UI/UX) của người dùng, **chịu trách nhiệm thiết kế Slide Pitching**.
 - **Vũ Đức Minh:** Đảm nhiệm Prompt Engineering, xây dựng logic cho luồng RAG (truy xuất tài liệu VinFast) và thiết lập kịch bản Fallback (chuyển người thật), **xây dựng kịch bản thuyết trình (Pitching content)**.
