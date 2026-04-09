@@ -414,6 +414,222 @@
       "tags": ["amio", "e-scooter", "price", "student"],
       "snippet": "Xe máy điện Amio công bố tốc độ ~30 km/h, quãng đường ~65 km/1 lần sạc, công suất tối đa ~800 W, giá kèm pin 13.900.000 VNĐ; tích hợp bàn đạp linh hoạt và phù hợp đối tượng học sinh.",
       "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-installment-calculator",
+      "sourceTitle": "VinFast Installment Calculator",
+      "url": "https://shop.vinfastauto.com/vn_vi/du-toan-chi-phi-tra-gop",
+      "topic": "finance",
+      "tags": ["trả góp", "dự toán", "ngân hàng", "lãi suất"],
+      "snippet": "Công cụ Dự toán chi phí trả góp cho phép chọn mẫu xe, phiên bản, thời gian vay, tỷ lệ trả trước (20%-90%), ngân hàng và lãi suất để xem lịch trả góp chi tiết.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-installment-disclaimer",
+      "sourceTitle": "VinFast Installment Calculator",
+      "url": "https://shop.vinfastauto.com/vn_vi/du-toan-chi-phi-tra-gop",
+      "topic": "finance",
+      "tags": ["trả góp", "tham khảo", "disclaimer"],
+      "snippet": "VinFast nêu rõ các giá trị dự toán trả góp chỉ mang tính tham khảo; để nhận thông tin cụ thể và chính xác cần liên hệ showroom hoặc đại lý gần nhất.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-loan-precheck-flow",
+      "sourceTitle": "VinFast Loan Pre-Assessment",
+      "url": "https://shop.vinfastauto.com/vn_vi/tham-dinh-vay.html",
+      "topic": "finance",
+      "tags": ["thẩm định vay", "online", "3 bước", "email"],
+      "snippet": "Thẩm định vay online theo 3 bước: lựa chọn xe, điền thông tin người vay, nhận kết quả thẩm định; hệ thống thông báo kết quả qua email sau khoảng 15-20 phút.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-loan-supported-bank",
+      "sourceTitle": "VinFast Loan Pre-Assessment",
+      "url": "https://shop.vinfastauto.com/vn_vi/tham-dinh-vay.html",
+      "topic": "finance",
+      "tags": ["ngân hàng", "vpbank", "loan support"],
+      "snippet": "Trang thẩm định vay online hiển thị ngân hàng hỗ trợ vay, gồm ngân hàng VPBank.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-onroad-calculator",
+      "sourceTitle": "VinFast On-road Cost Calculator",
+      "url": "https://shop.vinfastauto.com/vn_vi/chi-phi-lan-banh",
+      "topic": "finance",
+      "tags": ["chi phí lăn bánh", "phí trước bạ", "biển số", "đăng kiểm"],
+      "snippet": "Công cụ Dự toán chi phí lăn bánh cho phép chọn cấu hình xe, ưu đãi và tỉnh/thành đăng ký biển; bảng dự toán chi tiết gồm phí trước bạ, phí bảo trì đường bộ, bảo hiểm TNDS, phí đăng ký biển số, phí đăng kiểm và các khoản phí khác.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-onroad-hotline",
+      "sourceTitle": "VinFast On-road Cost Calculator",
+      "url": "https://shop.vinfastauto.com/vn_vi/chi-phi-lan-banh",
+      "topic": "finance",
+      "tags": ["chi phí lăn bánh", "hotline", "support"],
+      "snippet": "Trang dự toán lăn bánh nêu kết quả chỉ mang tính tham khảo và cung cấp hotline 1900 23 23 89 để liên hệ nhận báo giá chính xác.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "comparison-tool-sections",
+      "sourceTitle": "VinFast Car Comparison Tool",
+      "url": "https://shop.vinfastauto.com/vn_vi/so-sanh-xe-vinfast",
+      "topic": "comparison",
+      "tags": ["so sánh xe", "adas", "an toàn", "thông minh"],
+      "snippet": "Công cụ So sánh xe yêu cầu chọn từ 2 xe trở lên và so sánh theo nhiều nhóm: kích thước, hệ truyền động, ngoại thất, nội thất, an ninh & an toàn, ADAS, cùng các tính năng thông minh và ứng dụng điện thoại.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "comparison-tool-related-tools",
+      "sourceTitle": "VinFast Car Comparison Tool",
+      "url": "https://shop.vinfastauto.com/vn_vi/so-sanh-xe-vinfast",
+      "topic": "comparison",
+      "tags": ["so sánh xe", "công cụ", "lăn bánh", "trả góp", "lái thử"],
+      "snippet": "Trang so sánh xe liên kết các công cụ liên quan cho khách hàng gồm dự toán chi phí lăn bánh, dự toán vay trả góp và đăng ký lái thử.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "test-drive-required-license",
+      "sourceTitle": "VinFast Test Drive Registration",
+      "url": "https://shop.vinfastauto.com/vn_vi/dang-ky-lai-thu.html",
+      "topic": "service",
+      "tags": ["lái thử", "giấy phép lái xe", "đăng ký"],
+      "snippet": "VinFast nêu rõ để đăng ký lái thử, khách hàng cần cung cấp giấy phép lái xe cho VinFast.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "test-drive-form-fields",
+      "sourceTitle": "VinFast Test Drive Registration",
+      "url": "https://shop.vinfastauto.com/vn_vi/dang-ky-lai-thu.html",
+      "topic": "service",
+      "tags": ["lái thử", "form", "customer info", "schedule"],
+      "snippet": "Form đăng ký lái thử gồm thông tin khách hàng (họ tên, số điện thoại, email), lựa chọn mẫu xe, ngày giờ lái thử, tỉnh thành, địa chỉ chi tiết và yêu cầu khác.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "deposit-flow-steps",
+      "sourceTitle": "VinFast Car Deposit",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-coc-o-to-dien-vinfast.html",
+      "topic": "buying",
+      "tags": ["đặt cọc", "quy trình", "configuration", "customer info"],
+      "snippet": "Trang đặt cọc xe thể hiện quy trình 3 bước: lựa chọn xe, nhập thông tin và đặt cọc; khách hàng chọn phiên bản cùng tùy chọn ngoại thất, nội thất trước khi sang bước tiếp theo.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "deposit-linked-finance-tools",
+      "sourceTitle": "VinFast Car Deposit",
+      "url": "https://shop.vinfastauto.com/vn_vi/vinfast-cars-deposit.html",
+      "topic": "finance",
+      "tags": ["đặt cọc", "trả góp", "lăn bánh", "tool integration"],
+      "snippet": "Trong luồng đặt cọc, VinFast tích hợp liên kết sang các công cụ Dự toán trả góp và Dự toán chi phí lăn bánh để khách hàng tham khảo trước khi hoàn tất.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "legal-hub-transaction-policies",
+      "sourceTitle": "VinFast Legal Terms",
+      "url": "https://vinfastauto.com/vn_vi/dieu-khoan-phap-ly",
+      "topic": "policy",
+      "tags": ["legal", "đặt cọc", "vận chuyển", "đổi trả", "thanh toán"],
+      "snippet": "Trang Điều khoản, Pháp lý tổng hợp các chính sách giao dịch quan trọng gồm Điều khoản đặt cọc, Chính sách đổi trả, Chính sách vận chuyển, Chính sách bảo mật thanh toán, cùng các điều khoản và điều kiện sử dụng.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "campaign-tradein-march-2026",
+      "sourceTitle": "VinFast News - Thu xăng Đổi điện",
+      "url": "https://vinfastauto.com/vn_vi/vinfast-cong-bo-chinh-sach-thu-xang-doi-dien-thang-3-2026",
+      "topic": "campaign",
+      "tags": ["thu xăng đổi điện", "ưu đãi", "xe xăng sang xe điện", "march 2026"],
+      "snippet": "Chương trình hỗ trợ khẩn cấp công bố ưu đãi thêm 3% giá ô tô và 5% giá xe máy điện VinFast cho khách hàng chuyển đổi từ xe xăng cũ; đồng thời giảm 10% giá cước dịch vụ Xanh SM/Green SM trong thời gian triển khai theo thông báo.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "campaign-tradein-extension-apr-2026",
+      "sourceTitle": "VinFast News - Trade-in Extension",
+      "url": "https://vinfastauto.com/vn_vi/vingroup-gia-han-chuong-trinh-ho-tro-khan-cap-khach-hang-chuyen-doi-xe-xang-sang-xe-dien-toi-30042026",
+      "topic": "campaign",
+      "tags": ["gia hạn", "thu xăng đổi điện", "support program", "april 2026"],
+      "snippet": "Thông báo gia hạn chương trình hỗ trợ chuyển đổi xe xăng sang xe điện tới 30/04/2026 tại các thị trường trọng điểm; nêu mức hỗ trợ thêm 3% giá ô tô, 5% giá xe máy và ưu đãi 10% dịch vụ di chuyển xanh theo nội dung công bố.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "service-vpoint-booking-reward",
+      "sourceTitle": "VinFast Service Campaign",
+      "url": "https://vinfastauto.com/vn_vi/vinfast-tang-50-diem-vpoint-cho-moi-lich-hen-toi-xuong-dich-vu-dat-truoc-thanh-cong-qua-ung-dung-vinfast",
+      "topic": "service",
+      "tags": ["vpoint", "đặt lịch app", "xưởng dịch vụ", "vinclub"],
+      "snippet": "VinFast công bố tặng 50 điểm VPoint (tương đương 50.000 VNĐ) cho mỗi lịch hẹn xưởng dịch vụ đặt trước thành công qua ứng dụng, khi đáp ứng điều kiện đặt hẹn trên app, đến đúng khung giờ (±30 phút) và có tài khoản VinClub.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "safety-lfp-gotion-guidelines",
+      "sourceTitle": "VinFast Community Notice",
+      "url": "https://vinfastauto.com/vn_vi/luu-y-su-dung-doi-voi-pin-cell-lfp-gotion",
+      "topic": "safety",
+      "tags": ["lfp", "gotion", "soc", "battery usage"],
+      "snippet": "Lưu ý sử dụng pin LFP/Gotion: duy trì SoC trong khoảng 20%-100%, sạc đầy 100% ít nhất 1 lần/tháng (sau khi đưa SoC về khoảng 20% và để xe ngủ tối thiểu 2 giờ), hạn chế giữ pin 100% quá lâu và hạn chế sạc siêu nhanh liên tục khi không cần thiết.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "connected-service-privacy",
+      "sourceTitle": "VinFast Connected Service Privacy Policy",
+      "url": "https://vinfastauto.com/vn_vi/connected-service/privacy-policy",
+      "topic": "policy",
+      "tags": ["connected service", "telematics", "vehicle data", "privacy"],
+      "snippet": "Chính sách quyền riêng tư Dịch vụ Kết nối nêu việc thu thập dữ liệu xe/telematics (ví dụ tình trạng pin, vị trí, dữ liệu chẩn đoán) để cung cấp tính năng kết nối, bảo trì từ xa và cải thiện dịch vụ; người dùng có thể tắt truyền dữ liệu trong MHU hoặc ứng dụng, nhưng một số tính năng nâng cao sẽ bị hạn chế.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "connected-service-data-rights",
+      "sourceTitle": "VinFast Connected Service Privacy Policy",
+      "url": "https://vinfastauto.com/vn_vi/connected-service/privacy-policy",
+      "topic": "policy",
+      "tags": ["dsr", "data rights", "delete", "withdraw consent"],
+      "snippet": "Chính sách Dịch vụ Kết nối dẫn tới cổng yêu cầu dữ liệu https://vinfastauto.com/vn_vi/dsr-form và nêu các quyền dữ liệu như quyền xem/chỉnh sửa, xóa, hạn chế xử lý, phản đối xử lý và rút lại đồng ý theo quy định pháp luật.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "accessories-catalog",
+      "sourceTitle": "VinFast Accessories Store",
+      "url": "https://shop.vinfastauto.com/vn_vi/phu-kien",
+      "topic": "accessories",
+      "tags": ["phụ kiện", "catalog", "ecommerce", "official store"],
+      "snippet": "Trang phụ kiện chính hãng hiển thị danh mục sản phẩm với bộ lọc danh mục phụ kiện và số lượng hiển thị theo trang (ví dụ 12/83), bao gồm nhiều nhóm như phụ kiện nội/ngoại thất và phụ kiện liên quan sạc.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-charger-7-4kw-product",
+      "sourceTitle": "VinFast Charger Product Page",
+      "url": "https://shop.vinfastauto.com/vn_vi/sac-treo-tuong.html",
+      "topic": "accessories",
+      "tags": ["sạc treo tường", "7.4kw", "home charging", "specs"],
+      "snippet": "Bộ sạc treo tường AC 7,4 kW công bố thông số sạc AC mức 2, 1 đầu ra, yêu cầu đầu vào 230V; có khuyến nghị lắp đặt an toàn và thời gian bảo hành tại nơi lắp đặt lên tới 24 tháng.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-charger-7-4kw-price",
+      "sourceTitle": "VinFast Charger Product Page",
+      "url": "https://shop.vinfastauto.com/vn_vi/sac-treo-tuong.html",
+      "topic": "accessories",
+      "tags": ["charger price", "7.4kw", "official accessory"],
+      "snippet": "Trang sản phẩm công bố tổng tiền Bộ Sạc Treo Tường AC 7,4 kW là 10.800.000 VNĐ tại thời điểm crawl.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "test-drive-escooter-form",
+      "sourceTitle": "VinFast Test Drive Registration",
+      "url": "https://shop.vinfastauto.com/vn_vi/dang-ky-lai-thu-xmd.html",
+      "topic": "service",
+      "tags": ["lái thử xe máy điện", "form", "showroom", "driver license"],
+      "snippet": "Luồng đăng ký lái thử xe máy điện yêu cầu cung cấp giấy phép lái xe, thông tin khách hàng, lựa chọn mẫu xe và showroom để sắp xếp lịch trải nghiệm.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "policy-escooter-pricing-2025",
+      "sourceTitle": "VinFast News - E-scooter Pricing Policy",
+      "url": "https://vinfastauto.com/vn_vi/thong-bao-chinh-sach-gia-ban-cac-dong-xe-may-dien-vinfast-2025-0",
+      "topic": "policy",
+      "tags": ["xe máy điện", "pricing policy", "2025", "list price"],
+      "snippet": "Thông báo chính sách giá bán xe máy điện 2025 nêu bảng giá niêm yết và giá kèm pin cho các dòng Evo200/Evo200 Lite, Feliz S, Klara S2, Vento S, Theon S; hiệu lực từ 03/01/2025 cho đến khi có thông báo tiếp theo.",
+      "updatedAt": "2026-04-09"
     }
   ]
 }
