@@ -1,0 +1,243 @@
+{
+  "updatedAt": "2026-04-09",
+  "documents": [
+    {
+      "id": "home-vf5",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf5", "price", "range", "budget", "a-suv"],
+      "snippet": "VF 5 | Dòng xe A-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 326,4 km (NEDC) | Giá từ 529.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf6",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf6", "price", "range", "budget", "b-suv"],
+      "snippet": "VF 6 | Dòng xe B-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 480 km (NEDC) | Giá từ 689.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf7",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf7", "price", "range", "budget", "c-suv"],
+      "snippet": "VF 7 | Dòng xe C-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 496 km | Giá từ 789.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "battery-stop-rental",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["thuê pin", "battery rental", "battery subscription", "battery notice"],
+      "snippet": "Kể từ ngày 01/03/2025, VinFast dừng dịch vụ cho thuê pin Ô tô điện. Khách hàng đang sử dụng dịch vụ thuê pin có thể chuyển sang hình thức mua pin hoặc tiếp tục sử dụng dịch vụ thuê pin theo nhu cầu.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-rate",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["sạc", "trạm sạc", "kwh", "charging rate", "public charging"],
+      "snippet": "Đơn giá sạc ô tô điện và xe máy điện tại trạm sạc công cộng là 3.858 VNĐ/kWh (áp dụng từ 19/03/2024). Phí sử dụng dịch vụ trạm sạc bổ sung: miễn phí phút 1-10, 1.000 đồng/phút phút 11-60, 2.000 đồng/phút phút 61-120, 4.000 đồng/phút từ phút 121 trở đi.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-hardware",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["sạc tại nhà", "ac 7.4kw", "3.5kw", "2.2kw", "home charger"],
+      "snippet": "VinFast cung cấp đa dạng giải pháp sạc để đáp ứng nhu cầu sử dụng của Khách hàng, gồm bộ sạc treo tường AC 7,4 kW, bộ sạc theo xe 3,5 kW và bộ sạc di động 2,2 kW.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "safety-battery-rules",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "safety",
+      "tags": ["an toàn", "pin", "cảnh báo", "sửa chữa", "tai nạn"],
+      "snippet": "Quy định sử dụng pin nêu rõ không tự ý tháo rời, sửa chữa hoặc thay thế các bộ phận, dây cáp hoặc đầu nối điện áp cao; không tự ý can thiệp hoặc cập nhật phần mềm trái phép; nếu xe gặp tai nạn có khả năng ảnh hưởng đến pin thì cần yêu cầu xưởng dịch vụ kiểm tra tổng quát hệ thống pin.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-car-standard",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["bảo hành", "ô tô", "vf5", "vf6", "vf7", "vf8", "vf9"],
+      "snippet": "Xe sử dụng điều kiện tiêu chuẩn: VF 7, VF 8, VF 9 được bảo hành 10 năm hoặc 200.000 km; VF 3, VF 5, VF 6, VF e34, VF Minio Green, VF Nerio Green, VF Herio Green, VF Limo, VF Limo Green được bảo hành 7 năm hoặc 160.000 km.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-car-commercial",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["dịch vụ thương mại", "taxi", "grab", "bảo hành xe"],
+      "snippet": "Xe đang hoặc đã từng sử dụng cho hoạt động dịch vụ thương mại: VF 3, VF 7, VF 8, VF 9 được bảo hành 3 năm hoặc 100.000 km.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "service-booking-form",
+      "sourceTitle": "VinFast Service Booking",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-lich-dich-vu.html",
+      "topic": "service",
+      "tags": ["đặt lịch", "bảo dưỡng", "sửa chữa", "xưởng dịch vụ", "booking"],
+      "snippet": "Form đặt lịch dịch vụ yêu cầu Họ tên, Số điện thoại, Email, Mẫu xe, Số Km, Biển số xe, Dịch vụ, Địa điểm, Thời gian và cho phép tải ảnh lên.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "service-network",
+      "sourceTitle": "VinFast Showroom & Charging Network",
+      "url": "https://vinfastauto.com/vn_vi/tim-kiem-showroom-tram-sac",
+      "topic": "service",
+      "tags": ["showroom", "trạm sạc", "xưởng dịch vụ", "tủ đổi pin"],
+      "snippet": "Hệ thống hỗ trợ tìm Showroom ô tô, Showroom xe máy điện, xưởng dịch vụ ô tô, xưởng dịch vụ xe máy điện, trạm sạc ô tô điện, trạm sạc xe máy điện và tủ đổi pin.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "about-company",
+      "sourceTitle": "About VinFast",
+      "url": "https://vinfastauto.com/vn_vi/ve-chung-toi",
+      "topic": "about",
+      "tags": ["tầm nhìn", "sứ mệnh", "giá trị cốt lõi", "company"],
+      "snippet": "VinFast hướng tới trở thành thương hiệu xe điện thông minh thúc đẩy cuộc cách mạng xe điện toàn cầu; sứ mệnh vì một tương lai xanh cho mọi người; triết lý đặt khách hàng làm trọng tâm.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "contact-hotline",
+      "sourceTitle": "VinFast Footer Contact",
+      "url": "https://vinfastauto.com/",
+      "topic": "service",
+      "tags": ["hotline", "support", "contact", "escalation"],
+      "snippet": "Dịch vụ khách hàng: 1900 23 23 89 - Nhánh 1. Email hỗ trợ: support.vn@vinfastauto.com. Liên hệ tư vấn trạm sạc và thiết bị sạc: hotline 1900 23 23 89, bấm phím 5.",
+      "updatedAt": "2026-04-09"
+    }
+  ]
+}{
+  "updatedAt": "2026-04-09",
+  "documents": [
+    {
+      "id": "home-vf5",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf5", "price", "range", "budget", "a-suv"],
+      "snippet": "VF 5 | Dòng xe A-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 326,4 km (NEDC) | Giá từ 529.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf6",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf6", "price", "range", "budget", "b-suv"],
+      "snippet": "VF 6 | Dòng xe B-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 480 km (NEDC) | Giá từ 689.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "home-vf7",
+      "sourceTitle": "VinFast Homepage",
+      "url": "https://vinfastauto.com/",
+      "topic": "buying",
+      "tags": ["vf7", "price", "range", "budget", "c-suv"],
+      "snippet": "VF 7 | Dòng xe C-SUV | Số chỗ ngồi 5 chỗ | Quãng đường lên tới 496 km | Giá từ 789.000.000 VNĐ.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "battery-stop-rental",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["thuê pin", "battery rental", "battery subscription", "battery notice"],
+      "snippet": "Kể từ ngày 01/03/2025, VinFast dừng dịch vụ cho thuê pin Ô tô điện. Khách hàng đang sử dụng dịch vụ thuê pin có thể chuyển sang hình thức mua pin hoặc tiếp tục sử dụng dịch vụ thuê pin theo nhu cầu.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-rate",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["sạc", "trạm sạc", "kwh", "charging rate", "public charging"],
+      "snippet": "Đơn giá sạc ô tô điện và xe máy điện tại trạm sạc công cộng là 3.858 VNĐ/kWh (áp dụng từ 19/03/2024). Phí sử dụng dịch vụ trạm sạc bổ sung: miễn phí phút 1-10, 1.000 đồng/phút phút 11-60, 2.000 đồng/phút phút 61-120, 4.000 đồng/phút từ phút 121 trở đi.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "charging-hardware",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "charging",
+      "tags": ["sạc tại nhà", "ac 7.4kw", "3.5kw", "2.2kw", "home charger"],
+      "snippet": "VinFast cung cấp đa dạng giải pháp sạc để đáp ứng nhu cầu sử dụng của Khách hàng, gồm bộ sạc treo tường AC 7,4 kW, bộ sạc theo xe 3,5 kW và bộ sạc di động 2,2 kW.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "safety-battery-rules",
+      "sourceTitle": "VinFast Battery & Charging Service",
+      "url": "https://vinfastauto.com/vn_vi/dich-vu-pin-oto-dien",
+      "topic": "safety",
+      "tags": ["an toàn", "pin", "cảnh báo", "sửa chữa", "tai nạn"],
+      "snippet": "Quy định sử dụng pin nêu rõ không tự ý tháo rời, sửa chữa hoặc thay thế các bộ phận, dây cáp hoặc đầu nối điện áp cao; không tự ý can thiệp hoặc cập nhật phần mềm trái phép; nếu xe gặp tai nạn có khả năng ảnh hưởng đến pin thì cần yêu cầu xưởng dịch vụ kiểm tra tổng quát hệ thống pin.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-car-standard",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["bảo hành", "ô tô", "vf5", "vf6", "vf7", "vf8", "vf9"],
+      "snippet": "Xe sử dụng điều kiện tiêu chuẩn: VF 7, VF 8, VF 9 được bảo hành 10 năm hoặc 200.000 km; VF 3, VF 5, VF 6, VF e34, VF Minio Green, VF Nerio Green, VF Herio Green, VF Limo, VF Limo Green được bảo hành 7 năm hoặc 160.000 km.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "warranty-car-commercial",
+      "sourceTitle": "VinFast Warranty & Repair",
+      "url": "https://vinfastauto.com/vn_vi/thong-tin-bao-hanh",
+      "topic": "maintenance",
+      "tags": ["dịch vụ thương mại", "taxi", "grab", "bảo hành xe"],
+      "snippet": "Xe đang hoặc đã từng sử dụng cho hoạt động dịch vụ thương mại: VF 3, VF 7, VF 8, VF 9 được bảo hành 3 năm hoặc 100.000 km.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "service-booking-form",
+      "sourceTitle": "VinFast Service Booking",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-lich-dich-vu.html",
+      "topic": "service",
+      "tags": ["đặt lịch", "bảo dưỡng", "sửa chữa", "xưởng dịch vụ", "booking"],
+      "snippet": "Form đặt lịch dịch vụ yêu cầu Họ tên, Số điện thoại, Email, Mẫu xe, Số Km, Biển số xe, Dịch vụ, Địa điểm, Thời gian và cho phép tải ảnh lên.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "service-network",
+      "sourceTitle": "VinFast Showroom & Charging Network",
+      "url": "https://vinfastauto.com/vn_vi/tim-kiem-showroom-tram-sac",
+      "topic": "service",
+      "tags": ["showroom", "trạm sạc", "xưởng dịch vụ", "tủ đổi pin"],
+      "snippet": "Hệ thống hỗ trợ tìm Showroom ô tô, Showroom xe máy điện, xưởng dịch vụ ô tô, xưởng dịch vụ xe máy điện, trạm sạc ô tô điện, trạm sạc xe máy điện và tủ đổi pin.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "about-company",
+      "sourceTitle": "About VinFast",
+      "url": "https://vinfastauto.com/vn_vi/ve-chung-toi",
+      "topic": "about",
+      "tags": ["tầm nhìn", "sứ mệnh", "giá trị cốt lõi", "company"],
+      "snippet": "VinFast hướng tới trở thành thương hiệu xe điện thông minh thúc đẩy cuộc cách mạng xe điện toàn cầu; sứ mệnh vì một tương lai xanh cho mọi người; triết lý đặt khách hàng làm trọng tâm.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "contact-hotline",
+      "sourceTitle": "VinFast Footer Contact",
+      "url": "https://vinfastauto.com/",
+      "topic": "service",
+      "tags": ["hotline", "support", "contact", "escalation"],
+      "snippet": "Dịch vụ khách hàng: 1900 23 23 89 - Nhánh 1. Email hỗ trợ: support.vn@vinfastauto.com. Liên hệ tư vấn trạm sạc và thiết bị sạc: hotline 1900 23 23 89, bấm phím 5.",
+      "updatedAt": "2026-04-09"
+    }
+  ]
+}
