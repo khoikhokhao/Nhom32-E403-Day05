@@ -414,6 +414,123 @@
       "tags": ["amio", "e-scooter", "price", "student"],
       "snippet": "Xe máy điện Amio công bố tốc độ ~30 km/h, quãng đường ~65 km/1 lần sạc, công suất tối đa ~800 W, giá kèm pin 13.900.000 VNĐ; tích hợp bàn đạp linh hoạt và phù hợp đối tượng học sinh.",
       "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-installment-calculator",
+      "sourceTitle": "VinFast Installment Calculator",
+      "url": "https://shop.vinfastauto.com/vn_vi/du-toan-chi-phi-tra-gop",
+      "topic": "finance",
+      "tags": ["trả góp", "dự toán", "ngân hàng", "lãi suất"],
+      "snippet": "Công cụ Dự toán chi phí trả góp cho phép chọn mẫu xe, phiên bản, thời gian vay, tỷ lệ trả trước (20%-90%), ngân hàng và lãi suất để xem lịch trả góp chi tiết.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-installment-disclaimer",
+      "sourceTitle": "VinFast Installment Calculator",
+      "url": "https://shop.vinfastauto.com/vn_vi/du-toan-chi-phi-tra-gop",
+      "topic": "finance",
+      "tags": ["trả góp", "tham khảo", "disclaimer"],
+      "snippet": "VinFast nêu rõ các giá trị dự toán trả góp chỉ mang tính tham khảo; để nhận thông tin cụ thể và chính xác cần liên hệ showroom hoặc đại lý gần nhất.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-loan-precheck-flow",
+      "sourceTitle": "VinFast Loan Pre-Assessment",
+      "url": "https://shop.vinfastauto.com/vn_vi/tham-dinh-vay.html",
+      "topic": "finance",
+      "tags": ["thẩm định vay", "online", "3 bước", "email"],
+      "snippet": "Thẩm định vay online theo 3 bước: lựa chọn xe, điền thông tin người vay, nhận kết quả thẩm định; hệ thống thông báo kết quả qua email sau khoảng 15-20 phút.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-loan-supported-bank",
+      "sourceTitle": "VinFast Loan Pre-Assessment",
+      "url": "https://shop.vinfastauto.com/vn_vi/tham-dinh-vay.html",
+      "topic": "finance",
+      "tags": ["ngân hàng", "vpbank", "loan support"],
+      "snippet": "Trang thẩm định vay online hiển thị ngân hàng hỗ trợ vay, gồm ngân hàng VPBank.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-onroad-calculator",
+      "sourceTitle": "VinFast On-road Cost Calculator",
+      "url": "https://shop.vinfastauto.com/vn_vi/chi-phi-lan-banh",
+      "topic": "finance",
+      "tags": ["chi phí lăn bánh", "phí trước bạ", "biển số", "đăng kiểm"],
+      "snippet": "Công cụ Dự toán chi phí lăn bánh cho phép chọn cấu hình xe, ưu đãi và tỉnh/thành đăng ký biển; bảng dự toán chi tiết gồm phí trước bạ, phí bảo trì đường bộ, bảo hiểm TNDS, phí đăng ký biển số, phí đăng kiểm và các khoản phí khác.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "finance-onroad-hotline",
+      "sourceTitle": "VinFast On-road Cost Calculator",
+      "url": "https://shop.vinfastauto.com/vn_vi/chi-phi-lan-banh",
+      "topic": "finance",
+      "tags": ["chi phí lăn bánh", "hotline", "support"],
+      "snippet": "Trang dự toán lăn bánh nêu kết quả chỉ mang tính tham khảo và cung cấp hotline 1900 23 23 89 để liên hệ nhận báo giá chính xác.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "comparison-tool-sections",
+      "sourceTitle": "VinFast Car Comparison Tool",
+      "url": "https://shop.vinfastauto.com/vn_vi/so-sanh-xe-vinfast",
+      "topic": "comparison",
+      "tags": ["so sánh xe", "adas", "an toàn", "thông minh"],
+      "snippet": "Công cụ So sánh xe yêu cầu chọn từ 2 xe trở lên và so sánh theo nhiều nhóm: kích thước, hệ truyền động, ngoại thất, nội thất, an ninh & an toàn, ADAS, cùng các tính năng thông minh và ứng dụng điện thoại.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "comparison-tool-related-tools",
+      "sourceTitle": "VinFast Car Comparison Tool",
+      "url": "https://shop.vinfastauto.com/vn_vi/so-sanh-xe-vinfast",
+      "topic": "comparison",
+      "tags": ["so sánh xe", "công cụ", "lăn bánh", "trả góp", "lái thử"],
+      "snippet": "Trang so sánh xe liên kết các công cụ liên quan cho khách hàng gồm dự toán chi phí lăn bánh, dự toán vay trả góp và đăng ký lái thử.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "test-drive-required-license",
+      "sourceTitle": "VinFast Test Drive Registration",
+      "url": "https://shop.vinfastauto.com/vn_vi/dang-ky-lai-thu.html",
+      "topic": "service",
+      "tags": ["lái thử", "giấy phép lái xe", "đăng ký"],
+      "snippet": "VinFast nêu rõ để đăng ký lái thử, khách hàng cần cung cấp giấy phép lái xe cho VinFast.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "test-drive-form-fields",
+      "sourceTitle": "VinFast Test Drive Registration",
+      "url": "https://shop.vinfastauto.com/vn_vi/dang-ky-lai-thu.html",
+      "topic": "service",
+      "tags": ["lái thử", "form", "customer info", "schedule"],
+      "snippet": "Form đăng ký lái thử gồm thông tin khách hàng (họ tên, số điện thoại, email), lựa chọn mẫu xe, ngày giờ lái thử, tỉnh thành, địa chỉ chi tiết và yêu cầu khác.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "deposit-flow-steps",
+      "sourceTitle": "VinFast Car Deposit",
+      "url": "https://shop.vinfastauto.com/vn_vi/dat-coc-o-to-dien-vinfast.html",
+      "topic": "buying",
+      "tags": ["đặt cọc", "quy trình", "configuration", "customer info"],
+      "snippet": "Trang đặt cọc xe thể hiện quy trình 3 bước: lựa chọn xe, nhập thông tin và đặt cọc; khách hàng chọn phiên bản cùng tùy chọn ngoại thất, nội thất trước khi sang bước tiếp theo.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "deposit-linked-finance-tools",
+      "sourceTitle": "VinFast Car Deposit",
+      "url": "https://shop.vinfastauto.com/vn_vi/vinfast-cars-deposit.html",
+      "topic": "finance",
+      "tags": ["đặt cọc", "trả góp", "lăn bánh", "tool integration"],
+      "snippet": "Trong luồng đặt cọc, VinFast tích hợp liên kết sang các công cụ Dự toán trả góp và Dự toán chi phí lăn bánh để khách hàng tham khảo trước khi hoàn tất.",
+      "updatedAt": "2026-04-09"
+    },
+    {
+      "id": "legal-hub-transaction-policies",
+      "sourceTitle": "VinFast Legal Terms",
+      "url": "https://vinfastauto.com/vn_vi/dieu-khoan-phap-ly",
+      "topic": "policy",
+      "tags": ["legal", "đặt cọc", "vận chuyển", "đổi trả", "thanh toán"],
+      "snippet": "Trang Điều khoản, Pháp lý tổng hợp các chính sách giao dịch quan trọng gồm Điều khoản đặt cọc, Chính sách đổi trả, Chính sách vận chuyển, Chính sách bảo mật thanh toán, cùng các điều khoản và điều kiện sử dụng.",
+      "updatedAt": "2026-04-09"
     }
   ]
 }
